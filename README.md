@@ -6,6 +6,7 @@
 ![model](https://github.com/jinlianchao185874/NER-0/blob/master/model.png)
 
 数据集总共684条数据，训练使用600条，评估使用84条，实验结果如下：
+bathsize：64 epoch：5 准确率为：train %96 evaluate %91
 
 ![jieguo](https://github.com/jinlianchao185874/NER-0/blob/master/train%20and%20%20eval.jpg)
 
